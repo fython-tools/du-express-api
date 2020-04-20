@@ -1,0 +1,16 @@
+{
+  "name": "du-express-api",
+  "version": "0.0.1",
+  "description": "Example of using Du Express Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fython",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
